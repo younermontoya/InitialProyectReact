@@ -1,2 +1,2 @@
-# InitialProyectReact
-initialProyectReact
+# initial-project-react
+initial-project-react
